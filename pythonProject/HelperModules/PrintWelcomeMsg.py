@@ -1,3 +1,4 @@
 class welcome:
     def __init__(self):
-        print("Hello Nishit Dhakar - welcome to Python")
+        print("Welcome to Python")
+        print("Hello Nishit Dhakar!!")
