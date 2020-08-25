@@ -24,7 +24,7 @@ while alpha>=1:
 
 print()
 
-a,b = int(input("Enter value of a")),int(input("Enter value of b"))
+a,b = int(input("Enter value of a: ")),int(input("Enter value of b: "))
 
 if a==b:
     #a = a+b

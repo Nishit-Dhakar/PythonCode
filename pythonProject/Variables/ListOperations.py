@@ -15,9 +15,9 @@ lst2 = ["nishit","aryaa","roopam"]
 #     i = i + 1
 def listoperations():
         try:
-                listlenght = int(input("Enter your list length - "))
+                val = int(input("Enter your list length - "))
                 lst3 = []
-                for i in range(listlenght):
+                for i in range(val):
                     temp = int(input("Enter value {} -".format(i)))
                     lst3.append(temp)
 
