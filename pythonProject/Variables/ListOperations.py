@@ -34,7 +34,7 @@ def listoperations():
 
         except Exception as e:
                 print("sir, please enter integers Only else tata")
-                aryaa()
+                listoperations()
 
-aryaa()
+listoperations()
 
