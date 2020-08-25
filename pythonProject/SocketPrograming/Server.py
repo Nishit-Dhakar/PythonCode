@@ -1,7 +1,7 @@
 import socket
 
 #step 1 - Declare a server socket
-s = socket.socket();
+s = socket.socket()
 print("Socket Created")
 
 #step 2 - bind socket

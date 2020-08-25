@@ -1,7 +1,7 @@
 lst = [1,2,3,5,6,7,8,9,0]
 
-#Function to count event and odd numbers
 
+#Function to count event and odd numbers
 def counter(arg):
     even, odd =0,0
     for i in arg:
